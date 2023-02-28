@@ -4,6 +4,8 @@ This repository contains a template for writing Go code that interacts with a Co
 
 The code is taken from the [CosmosSDK documentation](https://docs.cosmos.network/main/run-node/interact-node#programmatically-via-go).
 
+The `go.mod` file contains the replacements required by Cosmos for various historical reasons.
+
 ## Steps
 
 1. Install CosmosSDK
